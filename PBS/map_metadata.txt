@@ -45,10 +45,9 @@ Name = Cedolan City
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]
-Name = Cedolan City
-MapPosition = 0,13,10
-BattleBack = indoor3
+[010]   # Route 1
+Outdoor = true
+ShowArea = true
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------

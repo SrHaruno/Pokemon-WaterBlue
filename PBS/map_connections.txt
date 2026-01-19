@@ -2,3 +2,5 @@
 #-------------------------------
 # Route 21 (9) - Pallet Town (2)
 9,North,0,2,South,0
+# Route 1 (10) - Pallet Town (2)
+10,South,0,2,North,0
