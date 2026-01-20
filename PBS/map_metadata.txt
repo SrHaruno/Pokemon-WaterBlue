@@ -64,13 +64,15 @@ Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
 [013]   # Route 22
+Name = Route 22
 Outdoor = true
 ShowArea = true
 BattleBack = field
 #-------------------------------
-[014]
-Name = Cedolan City
-MapPosition = 0,13,10
+[014]   # Route 2
+Outdoor = true
+ShowArea = true
+BattleBack = field
 #-------------------------------
 [015]
 Name = Cedolan City
