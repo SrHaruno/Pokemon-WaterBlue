@@ -54,6 +54,7 @@ Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
 [011]   # Viridian City
+Name = Viridian City
 Outdoor = true
 ShowArea = true
 BattleBack = field
@@ -62,9 +63,10 @@ BattleBack = field
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[013]
-Name = Cedolan City
-MapPosition = 0,14,10
+[013]   # Route 22
+Outdoor = true
+ShowArea = true
+BattleBack = field
 #-------------------------------
 [014]
 Name = Cedolan City

@@ -29,5 +29,24 @@ SuperRod
 Land,21
     50,PIDGEY,2,5
     50,RATTATA,2,4
+#-------------------------------
+[013] # Route 22
+Land,21
+    45,RATTATA,2,4
+	40,NIDORANfE,3,4
+	5,NIDORANmA,3,4
+	10,SPEAROW,3,5
+Water,2
+	50,PSYDUCK,20,40
+	50,SLOWPOKE,20,40
+OldRod
+	100,MAGIKARP,5
+GoodRod
+	50,POLIWAG,10
+	50,GOLDEEN,10
+SuperRod
+	90,POLIWAG,15
+	50,GOLDEEN,15
+	
 
 
