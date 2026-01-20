@@ -1,8 +1,9 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
+
+#Towns
+
 #-------------------------------
 [002] # Lappet Town
-Land,21
-	60,PIDGEY,5
 Water,2
     60,TENTACOOL,14,19
     30,MANTYKE,15,16
@@ -18,4 +19,15 @@ SuperRod
     40,QWILFISH,16,19
     15,CORSOLA,15,18
     5,STARYU,15,17
+	
+	
+	
+#Routes
+
+#-------------------------------
+[010] # Route 1
+Land,21
+    50,PIDGEY,2,5
+    50,RATTATA,2,4
+
 

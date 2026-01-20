@@ -20,14 +20,14 @@ CycleCharset = red_cycling
 SurfCharset = red_surf
 DiveCharset = boy_surf
 FishCharset = red_fishing
-SurfFishCharset = boy_fish_offset
+SurfFishCharset = red_fishing
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Leaf
 WalkCharset = leaf_walk
 RunCharset = leaf_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
+CycleCharset = leaf_cycling
+SurfCharset = leaf_surf
 DiveCharset = girl_surf
-FishCharset = girl_fish_offset
-SurfFishCharset = girl_fish_offset
+FishCharset = leaf_fish_offset
+SurfFishCharset = leaf_fish_offset

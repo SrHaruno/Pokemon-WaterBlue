@@ -46,16 +46,19 @@ HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
 [010]   # Route 1
+Name = Route 1
 Outdoor = true
 ShowArea = true
+BattleBack = field
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
-[011]
-Name = Cedolan City
-MapPosition = 0,14,10
+[011]   # Viridian City
+Outdoor = true
+ShowArea = true
+BattleBack = field
 #-------------------------------
-[012]
+[012]   # Poké Centers
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
