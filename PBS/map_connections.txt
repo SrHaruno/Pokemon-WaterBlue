@@ -1,12 +1,14 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Viridian City (11) - Route 22 (13)
-11,West,4,13,East,0
 # Route 1 (10) - Viridian City (11)
 10,North,0,11,South,6
+# Route 22 (13) - Viridian City (11)
+13,East,0,11,West,4
 # Route 2 (14) - Viridian City (11)
-14,South,0,11,North,6
+14,South,0,11,North,0
 # Pallet Town (2) - Route 1 (10)
 2,North,0,10,South,0
 # Route 21 (9) - Pallet Town (2)
 9,North,0,2,South,0
+# Route 2 (14) - Route 22 (13)
+14,West,84,13,East,0

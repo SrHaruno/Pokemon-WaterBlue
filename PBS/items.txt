@@ -6563,3 +6563,11 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+#-------------------------------
+[OAKPARCEL]
+Name = Oak's Parcel
+NamePlural = Oak's Parcel
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A parcel to be delivered to Prof.Oak from Veridian City's Pokémon Mart.
