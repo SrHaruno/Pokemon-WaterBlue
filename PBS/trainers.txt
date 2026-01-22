@@ -5,14 +5,16 @@
 
 #Pokémon Lab
 #-------------------------------
-[RIVAL1,Blue] #Player has Bulbasaur
+[RIVAL1,Blue,1] #Player has Bulbasaur
 LoseText = WHAT? Unbelievable! I picked the wrong POKéMON!
 
  Pokemon = CHARMANDER,5
   Gender = Male
    Moves = SCRATCH,GROWL
+   
+   
 #-------------------------------
-[RIVAL1,Blue,1] #Player has Charmander
+[RIVAL1,Blue,2] #Player has Charmander
 LoseText = WHAT? Unbelievable! I picked the wrong POKéMON!
 
  Pokemon = SQUIRTLE,5
@@ -21,9 +23,57 @@ LoseText = WHAT? Unbelievable! I picked the wrong POKéMON!
    
    
 #-------------------------------
-[RIVAL1,Blue,2] #Player has Squirtle
+[RIVAL1,Blue,3] #Player has Squirtle
 LoseText = WHAT? Unbelievable! I picked the wrong POKéMON!
 
- Pokemon = SQUIRTLE,5
+ Pokemon = BULBASAUR,5
   Gender = Male
    Moves = TACKLE,GROWL
+   
+   
+   
+#Route 22 - No Badges
+#-------------------------------
+[RIVAL1,Blue,4] #Player has Bulbasaur
+LoseText = Awww! You just lucked out!
+
+ Pokemon = PIDGEY,9
+  Gender = Male
+  Abilit = KEENEYE
+   Moves = TACKLE,SANDATTACK
+
+ Pokemon = CHARMANDER,9
+  Gender = Male
+   Moves = SCRATCH,GROWL
+   
+   
+#-------------------------------
+[RIVAL1,Blue,5] #Player has Charmander
+LoseText = Awww! You just lucked out!
+
+ Pokemon = PIDGEY,9
+  Gender = Male
+  Abilit = KEENEYE
+   Moves = TACKLE,SANDATTACK
+
+ Pokemon = SQUIRTLE,9
+  Gender = Male
+   Moves = TACKLE,TAILWHIP
+   
+   
+#-------------------------------
+[RIVAL1,Blue,6] #Player has Squirtle
+LoseText = Awww! You just lucked out!
+
+ Pokemon = PIDGEY,9
+  Gender = Male
+  Abilit = KEENEYE
+   Moves = TACKLE,SANDATTACK
+
+ Pokemon = BULBASAUR,9
+  Gender = Male
+   Moves = TACKLE,GROWL
+   
+   
+   
+   
