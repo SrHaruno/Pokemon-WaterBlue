@@ -70,33 +70,35 @@ ShowArea = true
 BattleBack = field
 #-------------------------------
 [014]   # Route 2
+Name = Route 2
 Outdoor = true
 ShowArea = true
 BattleBack = field
 #-------------------------------
-[015]
+[015]   # Poke Marts
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[016]
+[016]   # Viridian City Mart
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[017]
+[017]   # Viridian City PC
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[018]
+[018]   # Route 22 Gate
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[019]
+[019]   # Route 2 Gate
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[020]
-Name = Cedolan City
-MapPosition = 0,13,10
+[020]   # Viridian Forest
+Outdoor = true
+ShowArea = true
+BattleBack = forest
 #-------------------------------
 [021]
 Name = Route 2
