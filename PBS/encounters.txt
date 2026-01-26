@@ -54,5 +54,14 @@ SuperRod
 	90,POLIWAG,15
 	50,GOLDEEN,15
 	
+#Dungeons
 
+#-------------------------------
+[020] # Viridian Forest
+Land,21
+    45,CATERPIE,3,5
+    40,METAPOD,4,6
+	5,WEEDLE,3
+	5,KAKUNA,4
+	5,PIKACHU,3,5
 
