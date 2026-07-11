@@ -3,7 +3,7 @@
 #Towns
 
 #-------------------------------
-[002] # Lappet Town
+[002] # Pallet Town
 Water,2
     60,TENTACOOL,14,19
     30,MANTYKE,15,16
