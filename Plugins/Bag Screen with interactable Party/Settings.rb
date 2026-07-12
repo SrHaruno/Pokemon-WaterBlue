@@ -9,10 +9,10 @@ module BagScreenWiInParty
  # 0 for only orange (newer gens style);
  # 1 for a different color for the player's gender (BW style);
  # 2 for a different color for each pocket (HGSS style).
-  BGSTYLE = 0
+  BGSTYLE = 2
 
 # If you want a Pokérus icon and/or a shiny icon to appear, respectively (true or false):
-  SHINYICON = true
-  PKRSICON  = true
+  SHINYICON = false
+  PKRSICON  = false
 
 end

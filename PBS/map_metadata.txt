@@ -7,6 +7,7 @@ Name = Intro
 Name = Pallet Town
 Outdoor = true
 ShowArea = true
+MapPosition = 0,8,11
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
@@ -49,7 +50,9 @@ MapPosition = 0,14,10
 Name = Route 1
 Outdoor = true
 ShowArea = true
+MapPosition = 0,7,12
 BattleBack = field
+MapSize = 2,0101
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
@@ -57,6 +60,7 @@ Flags = DisableBoxLink
 Name = Viridian City
 Outdoor = true
 ShowArea = true
+MapPosition = 0,8,11
 BattleBack = field
 #-------------------------------
 [012]   # Poké Centers
@@ -67,13 +71,17 @@ MapPosition = 0,14,10
 Name = Route 22
 Outdoor = true
 ShowArea = true
+MapPosition = 0,6,11
 BattleBack = field
+MapSize = 2,1100
 #-------------------------------
 [014]   # Route 2
 Name = Route 2
 Outdoor = true
 ShowArea = true
+MapPosition = 0,7,8
 BattleBack = field
+MapSize = 3,010010010
 #-------------------------------
 [015]   # Poke Marts
 Name = Cedolan City
@@ -96,16 +104,17 @@ Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
 [020]   # Viridian Forest
+Name = Viridian Forest
 Outdoor = true
 ShowArea = true
+MapPosition = 0,8,9
 BattleBack = forest
 #-------------------------------
-[021]
-Name = Route 2
+[021]   # Pewter City
+Name = Pewter City
 Outdoor = true
 ShowArea = true
-Weather = Rain,100
-MapPosition = 0,14,8
+MapPosition = 0,8,7
 BattleBack = field
 MapSize = 1,11
 #-------------------------------

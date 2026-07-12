@@ -1,6 +1,15 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [0]
-Name = Essen
+Name = Kanto
 Filename = mapRegion0.png
-Point = 13,12,Lappet Town,Oak's Lab,2,8,8
+Point = 8,14,Pallet Town,,2,13,10
+Point = 8,12,Route 1
+Point = 8,13,Route 1
+Point = 8,10,Route 2
+Point = 8,9,Route 2,Viridian Forest
+Point = 8,8,Route 2,Digglet Cave
+Point = 8,11,Viridian City,,11,26,27
+Point = 7,11,Route 22
+Point = 9,7,Route 3,
+Point = 10,7,Route 3,
