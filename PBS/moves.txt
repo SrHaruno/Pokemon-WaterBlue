@@ -3023,6 +3023,18 @@ FunctionCode = UserConsumeTargetBerry
 Flags = Contact,CanProtect,CanMirrorMove
 Description = The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.
 #-------------------------------
+[RAGEFIST]
+Name = Rage Fist
+Type = GHOST
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = IncreasePowerEachTimeHit
+Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome,Punching
+Description = The user converts its rage into energy to attack. The move’s power increases every time the user is hit.
+#-------------------------------
 [SKYDROP]
 Name = Sky Drop
 Type = FLYING

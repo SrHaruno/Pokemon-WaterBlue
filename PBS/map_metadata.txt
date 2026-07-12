@@ -109,6 +109,7 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,8,9
 BattleBack = forest
+Flags = MossRock
 #-------------------------------
 [021]   # Pewter City
 Name = Pewter City
@@ -120,9 +121,7 @@ MapSize = 1,11
 #-------------------------------
 [023]   # Viridian Forest Gate
 Name = Route 2
-Outdoor = true
-ShowArea = true
-MapPosition = 0,8,9
+MapPosition = 0,8,8
 #-------------------------------
 [024]   # Gates
 Name = Lerucean Town
