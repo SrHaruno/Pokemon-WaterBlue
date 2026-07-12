@@ -828,6 +828,9 @@ end
 #-------------------------------------------------------------------------------
 # Adds alias for changing Pokemon sprite file names. Used by certain animations.
 #-------------------------------------------------------------------------------
+
+=begin
+
 class PokemonSprite < Sprite
   attr_reader :name
 
@@ -841,6 +844,7 @@ class PokemonSprite < Sprite
   end
 end
 
+=end
 #-------------------------------------------------------------------------------
 # Gets the file names for battle background elements. Used by certain animations.
 #-------------------------------------------------------------------------------
