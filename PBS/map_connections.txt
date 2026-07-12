@@ -5,7 +5,7 @@
 # Route 22 (13) - Route 2 (14)
 13,East,0,14,West,84
 # Pewter City (21) - Route 2 (14)
-21,South,0,14,North,2
+21,South,4,14,North,0
 # Route 1 (10) - Viridian City (11)
 10,North,0,11,South,6
 # Route 22 (13) - Viridian City (11)

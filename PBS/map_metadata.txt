@@ -100,8 +100,8 @@ Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
 [019]   # Route 2 Gate
-Name = Cedolan City
-MapPosition = 0,13,10
+Name = Route 2
+MapPosition = 0,8,9
 #-------------------------------
 [020]   # Viridian Forest
 Name = Viridian Forest
@@ -118,13 +118,13 @@ MapPosition = 0,8,7
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[023]
-Name = Lerucean Town
+[023]   # Viridian Forest Gate
+Name = Route 2
 Outdoor = true
 ShowArea = true
-MapPosition = 0,15,8
+MapPosition = 0,8,9
 #-------------------------------
-[024]
+[024]   # Gates
 Name = Lerucean Town
 HealingSpot = 23,11,15
 MapPosition = 0,15,8
