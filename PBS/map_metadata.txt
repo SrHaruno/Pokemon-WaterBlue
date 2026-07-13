@@ -128,17 +128,20 @@ Name = Lerucean Town
 HealingSpot = 23,11,15
 MapPosition = 0,15,8
 #-------------------------------
-[025]
+[025]   # Pewter City PC
 Name = Lerucean Town
 MapPosition = 0,15,8
 #-------------------------------
-[026]
+[026]   # Pewter City Mart
 Name = Lerucean Town
 MapPosition = 0,15,8
 #-------------------------------
-[027]
-Name = Lerucean Town
-MapPosition = 0,15,8
+[027]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,9,6
+MapSize = 4,000011110000
 #-------------------------------
 [028]
 Name = Natural Park

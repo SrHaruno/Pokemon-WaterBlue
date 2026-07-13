@@ -1,7 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 
 #Towns
-
 #-------------------------------
 [002] # Pallet Town
 Water,2
@@ -23,18 +22,38 @@ SuperRod
 	
 	
 #Routes
-
 #-------------------------------
 [010] # Route 1
 Land,21
     50,PIDGEY,2,5
     50,RATTATA,2,4
+LandNight,21
+    50,PIDGEY,2,5
+    50,RATTATA_1,2,4
 #-------------------------------
 [014] # Route 2
 Land,21
 	45,PIDGEY,3,5
 	40,RATTATA,2,5
     15,CATERPIE,3,5
+LandNight,21
+	45,PIDGEY,3,5
+	40,RATTATA,2,5
+    15,CATERPIE,3,5
+#-------------------------------
+[027] # Route 3
+Land,21
+	45,PIDGEY,6,8
+	45,SPEAROW,5,8
+	20,MAREEP,6,8
+    10,JIGGLYPUFF,3,7
+	10,MANKEY,7
+LandNight,21
+	45,PIDGEY,6,8
+	45,SPEAROW,5,8
+	20,MAREEP,6,8
+	10,JIGGLYPUFF,3,7
+    10,MANKEY,7
 #-------------------------------
 [013] # Route 22
 Land,21
@@ -54,8 +73,9 @@ SuperRod
 	90,POLIWAG,15
 	50,GOLDEEN,15
 	
+	
+	
 #Dungeons
-
 #-------------------------------
 [020] # Viridian Forest
 Land,21

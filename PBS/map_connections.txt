@@ -1,11 +1,13 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# Route 2 (14) - Pewter City (21)
+14,North,0,21,South,4
+# Route 3 (27) - Pewter City (21)
+27,West,0,21,East,15
 # Viridian City (11) - Route 2 (14)
 11,North,0,14,South,0
 # Route 22 (13) - Route 2 (14)
 13,East,0,14,West,84
-# Pewter City (21) - Route 2 (14)
-21,South,4,14,North,0
 # Route 1 (10) - Viridian City (11)
 10,North,0,11,South,6
 # Route 22 (13) - Viridian City (11)
