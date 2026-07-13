@@ -144,13 +144,13 @@ MapPosition = 0,9,6
 BattleBack = Rocky
 MapSize = 4,000011110000
 #-------------------------------
-[028]
-Name = Natural Park
+[028]   # Route 4
+Name = Route 4
 Outdoor = true
 ShowArea = true
-MapPosition = 0,16,8
+MapPosition = 0,12,1
 BattleBack = field
-Flags = MossRock,BugContest
+MapSize = 6,000000000000000000000000000000111111
 #-------------------------------
 [029]
 Name = Natural Park

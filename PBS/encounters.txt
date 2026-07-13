@@ -57,6 +57,18 @@ LandNight,21
 	10,JIGGLYPUFF,3,7
     10,MANKEY,7
 #-------------------------------
+[028] # Route 4
+Land,21
+	35,RATTATA,8,12
+	35,SPEAROW,8,10
+	25,SANDSHREW,6,12
+	5,MANKEY,10,12
+LandNight,21
+	35,RATTATA_1,8,12
+	35,HOOTHOOT,8,10
+	25,SANDSHREW,6,12
+	5,MANKEY,10,12
+#-------------------------------
 [013] # Route 22
 Land,21
     45,RATTATA,2,4
