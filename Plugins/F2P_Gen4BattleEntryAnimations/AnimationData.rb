@@ -930,6 +930,9 @@ module PokemonIntroAnimationSettings
     ANIMATION_DATA[:URSALUNA]       = ["StretchHorizontal",     "BABA",                 nil,        nil]
 	
 	ANIMATION_DATA[:ANNIHILAPE]     = ["StompDouble",           "ABBA",             "StompDouble",  nil]
+    ANIMATION_DATA[:NACLI]          = ["HopSmall",              "ABABA",            "HopSmall",         "ABABA"]
+    ANIMATION_DATA[:NACLSTACK]      = ["StretchVertical",       "ABBA",             "StretchVertical",  "ABBA"]
+    ANIMATION_DATA[:GARGANACL]      = ["StompDouble",           "ABBA",             "StompDouble",      "ABBA"]
     ANIMATION_DATA[:FARIGIRAF]      = ["Bounce",                "BABA",                 nil,        nil]
     ANIMATION_DATA[:KINGAMBIT]      = ["StretchHorizontal",     "BABA",                 nil,        nil]
     ANIMATION_DATA[:FLITTLE]        = ["HopSmall",              "BABA",                 nil,        nil]

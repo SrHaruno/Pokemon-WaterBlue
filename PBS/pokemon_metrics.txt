@@ -4043,3 +4043,21 @@ BackSprite = 0,0
 FrontSprite = -3,18
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[NACLI]
+BackSprite = 0,60
+FrontSprite = 0,36
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
+[NACLSTACK]
+BackSprite = 0,68
+FrontSprite = 0,35
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[GARGANACL]
+BackSprite = 0,39
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 3

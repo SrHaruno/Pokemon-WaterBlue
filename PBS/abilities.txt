@@ -1070,3 +1070,7 @@ Description = Combines Unnerve and Chilling Neigh Abilities.
 [ASONEGRIMNEIGH]
 Name = As One
 Description = Combines Unnerve and Grim Neigh Abilities.
+#-------------------------------
+[PURIFYINGSALT]
+Name = Purifying Salt
+Description = Gains protection from status effects and Ghost-type moves.

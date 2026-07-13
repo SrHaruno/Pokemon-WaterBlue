@@ -141,6 +141,7 @@ Name = Route 3
 Outdoor = true
 ShowArea = true
 MapPosition = 0,9,6
+BattleBack = Rocky
 MapSize = 4,000011110000
 #-------------------------------
 [028]
