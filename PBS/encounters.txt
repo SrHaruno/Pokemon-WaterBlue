@@ -92,7 +92,7 @@ SuperRod
 #Dungeons
 #-------------------------------
 [020] # Viridian Forest
-Land,21
+Land,14
     45,CATERPIE,3,5
     40,METAPOD,4,6
 	5,WEEDLE,3
