@@ -152,7 +152,7 @@ Outdoor = true
 ShowArea = true
 HealingSpot = 28,17,12
 MapPosition = 0,12,1
-BattleBack = field
+BattleBack = Field
 MapSize = 6,000000000000000000000000000000111111
 #-------------------------------
 [029]   # Filler
@@ -171,6 +171,21 @@ Name = Route 4
 MapPosition = 0,12,6
 BattleBack = field
 MapSize = 2,1101
+#-------------------------------
+[032]   # Cerulean City
+Name = Cerulean City
+Outdoor = true
+ShowArea = true
+HealingSpot = 32,22,21
+MapPosition = 0,18,6
+#-------------------------------
+[033]   # Route 24
+Name = Route 24
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,4
+BattleBack = Field
+MapSize = 2,0101
 #-------------------------------
 [034]
 Name = Route 3
