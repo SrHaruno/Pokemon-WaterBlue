@@ -1,40 +1,42 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Route 2 (14) - Pewter City (21)
-14,North,0,21,South,2
-# Route 3 (27) - Pewter City (21)
-27,West,0,21,East,14
-# Filler (29) - Pewter City (21)
-29,West,1,21,East,0
-# Viridian City (11) - Route 2 (14)
-11,North,0,14,South,0
-# Route 3 (27) - Route 2 (14)
-27,West,30,14,East,0
-# Filler (29) - Route 2 (14)
-29,West,45,14,East,0
-# Route 22 (13) - Route 2 (14)
-13,East,0,14,West,84
-# Route 1 (10) - Viridian City (11)
-10,North,0,11,South,6
-# Route 3 (27) - Viridian City (11)
-27,West,110,11,East,0
-# Filler (29) - Viridian City (11)
-29,West,125,11,East,0
-# Route 22 (13) - Viridian City (11)
-13,East,0,11,West,4
-# Pallet Town (2) - Route 1 (10)
-2,North,0,10,South,0
-# Route 21 (9) - Pallet Town (2)
-9,North,0,2,South,0
+# Route 3 (27) - Route 4 (28)
+27,North,55,28,South,0
+# Filler (29) - Route 4 (28)
+29,East,0,28,West,11
+# Filler (30) - Route 4 (28)
+30,North,0,28,South,32
+# Cerulean City (32) - Route 4 (28)
+32,West,4,28,East,0
+# Viridian City (11) - Route 3 (27)
+11,East,0,27,West,110
+# Route 2 (14) - Route 3 (27)
+14,East,0,27,West,30
+# Pewter City (21) - Route 3 (27)
+21,East,14,27,West,0
 # Filler (29) - Route 3 (27)
 29,South,0,27,North,0
 # Filler (30) - Route 3 (27)
 30,West,0,27,East,0
-# Route 4 (28) - Route 3 (27)
-28,South,0,27,North,55
+# Route 1 (10) - Viridian City (11)
+10,North,0,11,South,6
+# Route 2 (14) - Viridian City (11)
+14,South,0,11,North,0
+# Route 22 (13) - Viridian City (11)
+13,East,0,11,West,4
+# Filler (29) - Viridian City (11)
+29,West,125,11,East,0
+# Pallet Town (2) - Route 1 (10)
+2,North,0,10,South,0
+# Route 21 (9) - Pallet Town (2)
+9,North,0,2,South,0
+# Route 22 (13) - Route 2 (14)
+13,East,0,14,West,84
+# Pewter City (21) - Route 2 (14)
+21,South,2,14,North,0
+# Filler (29) - Route 2 (14)
+29,West,45,14,East,0
+# Filler (29) - Pewter City (21)
+29,West,1,21,East,0
 # Filler (30) - Filler (29)
 30,North,0,29,South,87
-# Route 4 (28) - Filler (29)
-28,West,11,29,East,0
-# Route 4 (28) - Filler (30)
-28,South,32,30,North,0
