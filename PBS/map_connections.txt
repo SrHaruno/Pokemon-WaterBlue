@@ -5,7 +5,7 @@
 # Filler (30) - Cerulean City (32)
 30,East,0,32,West,30
 # Route 24 (33) - Cerulean City (32)
-33,South,0,32,North,11
+33,South,0,32,North,6
 # Route 3 (27) - Route 4 (28)
 27,North,55,28,South,0
 # Filler (29) - Route 4 (28)
@@ -42,3 +42,5 @@
 29,West,1,21,East,0
 # Filler (30) - Filler (29)
 30,North,0,29,South,91
+# Route 25 (34) - Route 24 (33)
+34,West,0,33,East,0
