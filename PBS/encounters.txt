@@ -183,4 +183,17 @@ Land,14
 	5,KAKUNA,4
 	10,BUDEW,4,6
 	5,PIKACHU,3,5
+#-------------------------------
+[035] # Mt.Moon #1F
+Cave,7
+    30,ZUBAT,7,10
+	25,ARON,8,9
+	25,GEODUDE,7,9
+	5,PARAS,8
+	1,CLEFAIRY,8
+#-------------------------------
+[036] # Mt.Moon #B1F
+Cave,7
+	100,PARAS,5,10
+
 

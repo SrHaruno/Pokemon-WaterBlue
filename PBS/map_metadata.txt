@@ -198,16 +198,16 @@ MapSize = 2,1100
 Environment = Cave
 Flags = IceRock
 #-------------------------------
-[035]
-Name = Ingido Plateau
-Outdoor = true
+[035]   # Mt.Moon [1F]
+Name = Mt.Moon
 ShowArea = true
-MapPosition = 0,13,6
+MapPosition = 0,13,5
+BattleBack = cave1
 #-------------------------------
-[036]
-Name = Ingido Plateau
-HealingSpot = 35,17,7
-MapPosition = 0,13,6
+[036]   # Mt.Moon [B1F]
+Name = Mt.Moon
+MapPosition = 0,13,5
+BattleBack = cave1
 #-------------------------------
 [037]
 Name = Ingido Plateau
