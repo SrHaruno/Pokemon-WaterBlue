@@ -233,12 +233,14 @@ MapPosition = 0,19,6
 BattleBack = field
 MapSize = 2,11
 #-------------------------------
-[040]
-Name = Route 4
+[040]   # Route 6
+Name = Route 6
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
-MapPosition = 0,11,6
+MapPosition = 0,18,10
+BattleBack = field
+MapSize = 2,1010
 #-------------------------------
 [041]
 Name = Route 5
