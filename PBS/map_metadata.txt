@@ -217,15 +217,19 @@ BattleBack = cave1
 Flags = DisableBoxLink
 #-------------------------------
 [038]   # Route 5
-Name = Ingido Plateau
-MapPosition = 0,13,6
+Name = Route 5
+Outdoor = true
+ShowArea = true
+MapPosition = 0,18,7
+BattleBack = field
+MapSize = 2,1010
 Flags = DisableBoxLink
 #-------------------------------
 [039]   # Route 9
 Name = Route 4
 Outdoor = true
 ShowArea = true
-MapPosition = 0,11,6
+MapPosition = 0,19,6
 BattleBack = field
 MapSize = 2,11
 #-------------------------------

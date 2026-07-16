@@ -4,16 +4,20 @@
 28,East,0,32,West,4
 # Filler (30) - Cerulean City (32)
 30,East,0,32,West,30
-# Route 24 (33) - Cerulean City (32)
-33,South,0,32,North,6
+# Route 5 (38) - Cerulean City (32)
+38,North,0,32,South,0
 # Route 9 (39) - Cerulean City (32)
 39,West,0,32,East,9
+# Route 24 (33) - Cerulean City (32)
+33,South,0,32,North,6
 # Route 3 (27) - Route 4 (28)
 27,North,55,28,South,0
 # Filler (29) - Route 4 (28)
 29,East,0,28,West,11
 # Filler (30) - Route 4 (28)
 30,North,0,28,South,36
+# Route 5 (38) - Route 4 (28)
+38,West,0,28,East,36
 # Viridian City (11) - Route 3 (27)
 11,East,0,27,West,110
 # Route 2 (14) - Route 3 (27)
@@ -44,5 +48,9 @@
 29,West,1,21,East,0
 # Filler (30) - Filler (29)
 30,North,0,29,South,91
+# Route 5 (38) - Filler (30)
+38,West,0,30,East,10
+# Route 9 (39) - Route 5 (38)
+39,West,31,38,East,0
 # Route 25 (34) - Route 24 (33)
 34,West,0,33,East,0
