@@ -195,5 +195,13 @@ Cave,7
 [036] # Mt.Moon #B1F
 Cave,7
 	100,PARAS,5,10
+#-------------------------------
+[037] # Mt.Moon #2F
+Cave,7
+    20,ZUBAT,7,10
+	30,ARON,8,9
+	30,GEODUDE,7,9
+	15,PARAS,8
+	6,CLEFAIRY,8
 
 

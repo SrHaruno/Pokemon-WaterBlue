@@ -209,18 +209,19 @@ Name = Mt.Moon
 MapPosition = 0,13,5
 BattleBack = cave1
 #-------------------------------
-[037]
-Name = Ingido Plateau
-MapPosition = 0,13,6
-BattleBack = elite1
+[037]   # Mt.Moon [2BF]
+Name = Mt.Moon
+Outdoor = true
+MapPosition = 0,13,5
+BattleBack = cave1
 Flags = DisableBoxLink
 #-------------------------------
-[038]
+[038]   # Route 5
 Name = Ingido Plateau
 MapPosition = 0,13,6
 Flags = DisableBoxLink
 #-------------------------------
-[039]
+[039]   # Route 9
 Name = Route 4
 Outdoor = true
 ShowArea = true
