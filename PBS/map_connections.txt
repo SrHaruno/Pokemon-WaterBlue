@@ -48,5 +48,7 @@
 34,West,0,33,East,0
 # Route 9 (39) - Route 5 (38)
 39,West,31,38,East,0
-# Vermilion City (41) - Route 6 (40)
-41,North,20,40,South,0
+# Route 6 (40) - Vermilion City (41)
+40,South,0,41,North,20
+# Route 11 (42) - Vermilion City (41)
+42,West,0,41,East,13
