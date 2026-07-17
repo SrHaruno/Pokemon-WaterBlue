@@ -237,17 +237,15 @@ MapSize = 2,11
 Name = Route 6
 Outdoor = true
 ShowArea = true
-BicycleAlways = true
 MapPosition = 0,18,10
 BattleBack = field
 MapSize = 2,1010
 #-------------------------------
-[041]
-Name = Route 5
+[041]   # Vermilion City
 Outdoor = true
 ShowArea = true
-BicycleAlways = true
-MapPosition = 0,11,7
+MapPosition = 0,18,12
+BattleBack = water
 MapSize = 1,111
 #-------------------------------
 [044]

@@ -56,7 +56,7 @@ ShadowSize = 3
 #-------------------------------
 [CATERPIE]
 BackSprite = -5,0
-FrontSprite = -3,23
+FrontSprite = -6,23
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
@@ -4273,6 +4273,24 @@ ShadowX = 0
 ShadowSize = 2
 #-------------------------------
 [NECROZMA]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[CALYREX]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[CARBINK]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[CARKOL]
 BackSprite = 0,0
 FrontSprite = 0,0
 ShadowX = 0
