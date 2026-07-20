@@ -18,7 +18,7 @@
 
   # The key the player needs to press to toggle followers. Set this to nil if
   # you want to disable this feature. (A key)
-  TOGGLE_FOLLOWER_KEY       = Input::JUMPUP
+  TOGGLE_FOLLOWER_KEY       = nil #Input::JUMPUP
 
   # Show the option to toggle Following Pokemon in the Options screen.
   SHOW_TOGGLE_IN_OPTIONS    = false
@@ -28,8 +28,8 @@
   # Input::JUMPDOWN is S key - rotates party forward (first Pokemon goes to end)
   # Input::AUX2 is W key - rotates party backward (last Pokemon goes to first)
   # Input::JUMPUP is A key - swaps first and second Pokemon
-  CYCLE_PARTY_FORWARD_KEY  = Input::JUMPDOWN
-  CYCLE_PARTY_BACKWARD_KEY = Input::AUX2
+  CYCLE_PARTY_FORWARD_KEY  = nil #Input::JUMPDOWN
+  CYCLE_PARTY_BACKWARD_KEY = nil #Input::AUX2
 
   # Status tones to be used, if this is true (Red, Green, Blue)
   APPLY_STATUS_TONES        = false
