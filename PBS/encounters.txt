@@ -195,10 +195,11 @@ LandNight,21
 [020] # Viridian Forest
 Land,14
     45,CATERPIE,3,5
-    40,METAPOD,4,6
-	5,WEEDLE,3
-	5,KAKUNA,4
+	45,WEEDLE,3
+	30,SEWADDLE,5,6
 	10,BUDEW,4,6
+	5,KAKUNA,4
+    5,METAPOD,4,6
 	5,PIKACHU,3,5
 #-------------------------------
 [035] # Mt.Moon #1F

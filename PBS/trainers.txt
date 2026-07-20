@@ -1,7 +1,8 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 
 #===========================================================================
-#Rival Battles
+#         //  RIVAL BATTLES  \\
+#===========================================================================
 
 #Pokémon Lab
 #-------------------------------
@@ -75,5 +76,80 @@ LoseText = Awww! You just lucked out!
    Moves = TACKLE,GROWL
    
    
+#===========================================================================
+#         //  GYM BATTLES  \\
+#===========================================================================   
    
+#Pewter Gym
+#-------------------------------
+[CAMPER,Liam]
+LoseText = Darn! Light-years isn't time\nIt measures distance!
+
+ Pokemon = GEODUDE,10
+   Moves = TACKLE,DEFENSECURL
+ 
+ Pokemon = SANDSHREW,10
+   Moves = TACKLE,DEFENSECURL,SANDATTACK
    
+#-------------------------------
+[LEADER_Brock,Brock]
+LoseText = Darn! Light-years isn't time\nIt measures distance!
+   Items = POTION
+
+ Pokemon = GEODUDE,12
+   Moves = TACKLE,DEFENSECURL
+ 
+ Pokemon = ONIX,14
+   Moves = TACKLE,ROCKPOLISH,ROCKTOMB
+   Item  = SITRUSBERRY
+
+#===========================================================================
+#         //  TRAINER BATTLES  \\
+#===========================================================================
+
+#====Dungeons====
+
+#Viridian Forest
+#-------------------------------
+[BUGCATCHER,Rick]
+LoseText = No! Caterpie can't hack it!
+
+ Pokemon = WEEDLE,6
+ Pokemon = CATERPIE,6
+#-------------------------------
+[BUGCATCHER,Doug]
+LoseText = Huh? I ran out of Pokémon!
+
+ Pokemon = WEEDLE,7
+ Pokemon = KAKUNA,7
+ Pokemon = WEEDLE,7
+#-------------------------------
+[BUGCATCHER,Anthony]
+LoseText = Oh, boo. Nothing went right.
+
+ Pokemon = CATERPIE,7
+ Pokemon = SEWADDLE,8
+#-------------------------------
+[BUGCATCHER,Charlie]
+LoseText = Oh! I lost!
+
+ Pokemon = METAPOD,7
+ Pokemon = CATERPIE,7
+ Pokemon = METAPOD,7
+#-------------------------------
+[BUGCATCHER,Sammy]
+LoseText = Oh! I lost!
+
+ Pokemon = WEEDLE,9
+#-------------------------------
+[AROMALADY,Fiona]
+LoseText = My Cute Grass-type!
+
+ Pokemon = BUDEW,7
+#-------------------------------
+[LASS,Ikue]
+LoseText = Eek!
+
+ Pokemon = PIKACHU,6
+
+ 
