@@ -322,6 +322,18 @@ Gender = Unknown
 BaseMoney = 60
 SkillLevel = 32
 #-------------------------------
+[SHINYMANIAC]
+Name = Shiny Maniac
+Gender = Male
+BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Male
+#-------------------------------
+[NURSE]
+Name = Nurse
+Gender = Female
+BaseMoney = 40
+IntroBGM = Trainer Eyes Meet! Female
+#-------------------------------
 [TEAMROCKET_M]
 Name = Team Rocket
 Gender = Male
