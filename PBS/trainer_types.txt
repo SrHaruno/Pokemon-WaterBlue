@@ -34,26 +34,31 @@ BaseMoney = 36
 Name = Aroma Lady
 Gender = Female
 BaseMoney = 32
+IntroBGM  = IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [BEAUTY]
 Name = Beauty
 Gender = Female
 BaseMoney = 56
+IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [BIKER]
 Name = Biker
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [BIRDKEEPER]
 Name = Bird Keeper
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [BUGCATCHER]
 Name = Bug Catcher
 Gender = Male
 BaseMoney = 16
+IntroBGM = IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [BURGLAR]
 Name = Burglar
@@ -65,6 +70,7 @@ SkillLevel = 32
 Name = Channeler
 Gender = Female
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [CUEBALL]
 Name = Cue Ball
@@ -75,53 +81,63 @@ BaseMoney = 24
 Name = Engineer
 Gender = Male
 BaseMoney = 48
+IntroBGM = IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [FISHERMAN]
 Name = Fisherman
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Hiker
 #-------------------------------
 [GAMBLER]
 Name = Gambler
 Gender = Male
 BaseMoney = 72
 SkillLevel = 32
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [GENTLEMAN]
 Name = Gentleman
 Gender = Male
 BaseMoney = 72
+IntroBGM = Trainer Eyes Meet! Hiker
 #-------------------------------
 [HIKER]
 Name = Hiker
 Gender = Male
 BaseMoney = 32
+IntroBGM = IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [JUGGLER]
 Name = Juggler
 Gender = Male
 BaseMoney = 32
+IntroBGM = IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [LADY]
 Name = Lady
 Gender = Female
 BaseMoney = 160
 SkillLevel = 72
+IntroBGM = IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [PAINTER]
 Name = Painter
 Gender = Female
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [POKEMANIAC]
 Name = Poké Maniac
 Gender = Male
 BaseMoney = 64
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [POKEMONBREEDER]
 Name = Pokémon Breeder
 Gender = Female
 BaseMoney = 48
+IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [PROFESSOR]
 Name = Professor
@@ -132,51 +148,61 @@ BaseMoney = 100
 Name = Rocker
 Gender = Male
 BaseMoney = 24
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [RUINMANIAC]
 Name = Ruin Maniac
 Gender = Male
 BaseMoney = 48
+IntroBGM = Trainer Eyes Meet! Hiker
 #-------------------------------
 [SAILOR]
 Name = Sailor
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [SCIENTIST]
 Name = Scientist
 Gender = Male
 BaseMoney = 48
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [SUPERNERD]
 Name = Super Nerd
 Gender = Male
 BaseMoney = 48
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [TAMER]
 Name = Tamer
 Gender = Male
 BaseMoney = 40
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [BLACKBELT]
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
 Gender = Female
 BaseMoney = 24
+IntroBGM = Trainer Eyes Meet! Hiker
 #-------------------------------
 [CAMPER]
 Name = Camper
 Gender = Male
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [PICNICKER]
 Name = Picnicker
 Gender = Female
 BaseMoney = 16
+IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [COOLTRAINER_M]
 Name = Cool Trainer
@@ -192,11 +218,13 @@ BaseMoney = 60
 Name = Youngster
 Gender = Male
 BaseMoney = 16
+IntroBGM = IntroBGM = Trainer Eyes Meet! Male
 #-------------------------------
 [LASS]
 Name = Lass
 Gender = Female
 BaseMoney = 16
+IntroBGM = IntroBGM = Trainer Eyes Meet! Female
 #-------------------------------
 [POKEMONRANGER_M]
 Name = Pokémon Ranger
@@ -313,89 +341,89 @@ BaseMoney = 100
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
-BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+BattleBGM = Battle! Gym Leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Misty]
 Name = Gym Leader
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Surge]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Erika]
 Name = Gym Leader
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Koga]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Sabrina]
 Name = Gym Leader
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Blaine]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [LEADER_Giovanni]
 Name = Gym Leader
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [ELITEFOUR_Lorelei]
 Name = Elite Four
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [ELITEFOUR_Bruno]
 Name = Elite Four
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [ELITEFOUR_Agatha]
 Name = Elite Four
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [ELITEFOUR_Lance]
 Name = Elite Four
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader
 #-------------------------------
 [CHAMPION]
 Name = Champion
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
-VictoryBGM = Battle victory leader
+VictoryBGM = Battle! Victory leader

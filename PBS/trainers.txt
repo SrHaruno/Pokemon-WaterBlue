@@ -93,14 +93,16 @@ LoseText = Darn! Light-years isn't time\nIt measures distance!
    
 #-------------------------------
 [LEADER_Brock,Brock]
-LoseText = Darn! Light-years isn't time\nIt measures distance!
+LoseText = I took you for granted, and so I lost.
    Items = POTION
 
  Pokemon = GEODUDE,12
-   Moves = TACKLE,DEFENSECURL
+   Form  = 1
+   Moves = SPARK,ROLLOUT,DEFENSECURL,ROCKPOLISH
+   Item  = SITRUSBERRY
  
  Pokemon = ONIX,14
-   Moves = TACKLE,ROCKPOLISH,ROCKTOMB
+   Moves = TACKLE,BIND,ROCKTOMB
    Item  = SITRUSBERRY
 
 #===========================================================================
