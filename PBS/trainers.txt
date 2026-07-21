@@ -156,4 +156,70 @@ LoseText = Eek!
 
  Pokemon = PIKACHU,6
 
- 
+
+
+#Route 4
+#-------------------------------
+[LASS,Janice]
+LoseText = You're mean!
+
+ Pokemon = PIDGEY,9
+ Pokemon = PIDGEY,9
+#-------------------------------
+[BUGCATCHER,Colton]
+LoseText = You beat me again!
+
+ Pokemon = CATERPIE,10
+ Pokemon = WEEDLE,10
+ Pokemon = SEWADDLE,10
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = I don't believe it!
+
+ Pokemon = RATTATA_1,11
+ Pokemon = EKANS,11
+#-------------------------------
+[BUGCATCHER,Greg]
+LoseText = If I had new POKéMON, I would've won!
+
+ Pokemon = WEEDLE,9
+ Pokemon = KAKUNA,9
+ Pokemon = CATERPIE,9
+ Pokemon = METAPOD,9
+ Pokemon = SEWADDLE,9
+ Pokemon = SWADLOON,9
+#-------------------------------
+[YOUNGSTER,Calvin]
+LoseText = Lost! Lost! Lost!
+
+ Pokemon = SPEAROW,14
+   Shiny = true
+#-------------------------------
+[LASS,Sally]
+LoseText = Be nice!
+
+ Pokemon = RATTATA,10
+ Pokemon = NIDORANfE,10
+#-------------------------------
+[BUGCATCHER,James]
+LoseText = Done like dinner!
+
+ Pokemon = CATERPIE,11
+ Pokemon = KAKUNA,11
+#-------------------------------
+[LASS,Robin]
+LoseText = That's it?
+
+ Pokemon = JIGGLYPUFF,14
+#-------------------------------
+[SHINYMANIAC,Daniel]
+LoseText = Well, that's an way to obfuscate my shine!
+
+ Pokemon = NACLI,9
+   Shiny = true
+ Pokemon = MAREEP,9
+   Shiny = true
+ Pokemon = MANKEY,9
+   Shiny = true
+ Pokemon = JIGGLYPUFF,9
+   Shiny = true
