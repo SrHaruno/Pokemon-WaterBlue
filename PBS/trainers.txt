@@ -97,13 +97,15 @@ LoseText = I took you for granted, and so I lost.
    Items = POTION
 
  Pokemon = GEODUDE,12
-   Form  = 1
-   Moves = SPARK,ROLLOUT,DEFENSECURL,ROCKPOLISH
-   Item  = SITRUSBERRY
+     Form  = 1
+   Ability = STURDY
+     Moves = SPARK,BULLDOZE,ROCKTOMB
+     Item  = SITRUSBERRY
  
  Pokemon = ONIX,14
-   Moves = TACKLE,BIND,ROCKTOMB
-   Item  = SITRUSBERRY
+   Ability = STURDY
+     Moves = TACKLE,BIND,ROCKTOMB
+     Item  = SITRUSBERRY
 
 #===========================================================================
 #         //  TRAINER BATTLES  \\

@@ -7,10 +7,10 @@ Name = Intro
 Name = Pallet Town
 Outdoor = true
 ShowArea = true
-MapPosition = 0,8,11
+MapPosition = 0,8,14
 BattleBack = field
 #-------------------------------
-[003]   # Player's house
+[003]   # Player House
 Name = \PN's house
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
@@ -37,7 +37,7 @@ ShowArea = true
 MapPosition = 0,13,10
 MapSize = 2,11
 #-------------------------------
-[008]   # Daisy's house
+[008]   # Daisy's House
 Name = Lappet Town
 MapPosition = 0,13,12
 #-------------------------------
@@ -100,7 +100,7 @@ MapPosition = 0,13,10
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[019]   # Route 2 Gate
+[019]
 Name = Route 2
 MapPosition = 0,8,9
 #-------------------------------
@@ -121,7 +121,7 @@ MapPosition = 0,8,7
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[023]   # Viridian Forest Gate
+[023]
 Name = Route 2
 MapPosition = 0,8,8
 #-------------------------------
@@ -242,13 +242,14 @@ BattleBack = field
 MapSize = 2,1010
 #-------------------------------
 [041]   # Vermilion City
+Name = Vermilion City
 Outdoor = true
 ShowArea = true
 MapPosition = 0,18,12
 BattleBack = water
 MapSize = 1,111
 #-------------------------------
-[044]
+[044]   # Viridian Houses
 Name = Route 6
 Outdoor = true
 ShowArea = true
@@ -256,19 +257,19 @@ MapPosition = 0,11,10
 BattleBack = field
 MapSize = 2,11
 #-------------------------------
-[045]
+[045]   # Pewter Houses
 Name = Route 6
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,10
 #-------------------------------
-[046]
+[046]   # Route 5 Gate
 Name = Route 4
 Bicycle = true
 MapPosition = 0,12,6
 #-------------------------------
-[047]
+[047]   # Route 6 Gate
 Name = Route 7
 Outdoor = true
 ShowArea = true
@@ -278,7 +279,7 @@ BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
-[049]
+[049]   # gate
 Name = Route 7
 Bicycle = true
 MapPosition = 0,16,10
@@ -295,7 +296,7 @@ BattleBack = cave3
 Environment = Cave
 Flags = Magnetic,DistortionWorld
 #-------------------------------
-[051]
+[051]   # Gate 2
 Name = Route 7
 Bicycle = true
 MapPosition = 0,16,10
@@ -304,41 +305,41 @@ BattleBack = cave2
 Environment = Cave
 Flags = Magnetic,DistortionWorld,ScaleWildEncounterLevels
 #-------------------------------
-[052]
+[052]   # Gate 3
 Name = Battle Frontier
 Outdoor = true
 ShowArea = true
 MapPosition = 0,17,10
 #-------------------------------
-[053]
+[053]   # Gate 4
 Name = Battle Frontier
 HealingSpot = 52,17,14
 MapPosition = 0,17,10
 #-------------------------------
-[054]
+[054]   # Gate 5
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[055]
+[055]   # Gate 6
 Name = Battle Frontier
 HealingSpot = 52,30,10
 MapPosition = 0,17,10
 #-------------------------------
-[056]
+[056]   # Gate 7
 Name = Battle Frontier
 MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
-[057]
+[057]   # Gate underground 
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[058]
+[058]   # Route 2 Gate
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[059]
+[059]   # Viridian Forest Gate
 Name = Battle Frontier
 MapPosition = 0,17,10
 BattleBack = indoor1
