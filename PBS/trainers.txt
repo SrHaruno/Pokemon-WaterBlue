@@ -111,52 +111,7 @@ LoseText = I took you for granted, and so I lost.
 #         //  TRAINER BATTLES  \\
 #===========================================================================
 
-#====Dungeons====
-
-#Viridian Forest
-#-------------------------------
-[BUGCATCHER,Rick]
-LoseText = No! Caterpie can't hack it!
-
- Pokemon = WEEDLE,6
- Pokemon = CATERPIE,6
-#-------------------------------
-[BUGCATCHER,Doug]
-LoseText = Huh? I ran out of Pokémon!
-
- Pokemon = WEEDLE,7
- Pokemon = KAKUNA,7
- Pokemon = WEEDLE,7
-#-------------------------------
-[BUGCATCHER,Anthony]
-LoseText = Oh, boo. Nothing went right.
-
- Pokemon = CATERPIE,7
- Pokemon = SEWADDLE,8
-#-------------------------------
-[BUGCATCHER,Charlie]
-LoseText = Oh! I lost!
-
- Pokemon = METAPOD,7
- Pokemon = CATERPIE,7
- Pokemon = METAPOD,7
-#-------------------------------
-[BUGCATCHER,Sammy]
-LoseText = Oh! I lost!
-
- Pokemon = WEEDLE,9
-#-------------------------------
-[AROMALADY,Fiona]
-LoseText = My Cute Grass-type!
-
- Pokemon = BUDEW,7
-#-------------------------------
-[LASS,Ikue]
-LoseText = Eek!
-
- Pokemon = PIKACHU,6
-
-
+#====Routes====
 
 #Route 4
 #-------------------------------
@@ -223,3 +178,96 @@ LoseText = Well, that's an way to obfuscate my shine!
    Shiny = true
  Pokemon = JIGGLYPUFF,9
    Shiny = true
+   
+
+#====Dungeons====
+
+#Viridian Forest
+#-------------------------------
+[BUGCATCHER,Rick]
+LoseText = No! Caterpie can't hack it!
+
+ Pokemon = WEEDLE,6
+ Pokemon = CATERPIE,6
+#-------------------------------
+[BUGCATCHER,Doug]
+LoseText = Huh? I ran out of Pokémon!
+
+ Pokemon = WEEDLE,7
+ Pokemon = KAKUNA,7
+ Pokemon = WEEDLE,7
+#-------------------------------
+[BUGCATCHER,Anthony]
+LoseText = Oh, boo. Nothing went right.
+
+ Pokemon = CATERPIE,7
+ Pokemon = SEWADDLE,8
+#-------------------------------
+[BUGCATCHER,Charlie]
+LoseText = Oh! I lost!
+
+ Pokemon = METAPOD,7
+ Pokemon = CATERPIE,7
+ Pokemon = METAPOD,7
+#-------------------------------
+[BUGCATCHER,Sammy]
+LoseText = Oh! I lost!
+
+ Pokemon = WEEDLE,9
+#-------------------------------
+[AROMALADY,Fiona]
+LoseText = My Cute Grass-type!
+
+ Pokemon = BUDEW,7
+#-------------------------------
+[LASS,Ikue]
+LoseText = Eek!
+
+ Pokemon = PIKACHU,6
+
+
+#Mt.Moon - 1F
+#-------------------------------
+[BUGCATCHER,Kent]
+LoseText = You're mean!
+
+ Pokemon = WEEDLE,11
+ Pokemon = KAKUNA,11
+#-------------------------------
+[LASS,Iris]
+LoseText = You're mean!
+
+ Pokemon = CLEFAIRY,14
+#-------------------------------
+[SUPERNERD,Jovan]
+LoseText = You're mean!
+
+ Pokemon = MAGNEMITE,11
+ Pokemon = VOLTORB,11
+#-------------------------------
+[BUGCATCHER,Robby]
+LoseText = You're mean!
+
+ Pokemon = CATERPIE,10
+ Pokemon = METAPOD,10
+ Pokemon = SEWADDLE,10
+#-------------------------------
+[LASS,Miriam]
+LoseText = You're mean!
+
+ Pokemon = ODDISH,11
+ Pokemon = BELLSPROUT,11
+#-------------------------------
+[YOUNGSTER,Josh]
+LoseText = You're mean!
+
+ Pokemon = RATTATA,10
+ Pokemon = RATTATA_1,10
+ Pokemon = ZUBAT,10
+#-------------------------------
+[HIKER,Marcos]
+LoseText = You're mean!
+
+ Pokemon = GEODUDE,10
+ Pokemon = ARON,10
+ Pokemon = ONIX,10
