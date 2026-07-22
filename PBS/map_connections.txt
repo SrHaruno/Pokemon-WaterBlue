@@ -1,15 +1,11 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-# Route 6 (40) - Vermilion City (41)
-40,South,0,41,North,20
-# Route 11 (42) - Vermilion City (41)
-42,West,0,41,East,13
 # Pallet Town (2) - Route 1 (10)
 2,North,0,10,South,0
-# Viridian City (11) - Route 1 (10)
-11,South,6,10,North,0
 # Route 21 (9) - Pallet Town (2)
 9,North,0,2,South,0
+# Viridian City (11) - Route 1 (10)
+11,South,6,10,North,0
 # Route 2 (14) - Viridian City (11)
 14,South,2,11,North,0
 # Route 22 (13) - Viridian City (11)
@@ -22,33 +18,37 @@
 29,West,45,14,East,0
 # Pewter City (21) - Route 3 (27)
 21,East,14,27,West,0
+# Filler (29) - Pewter City (21)
+29,West,1,21,East,0
 # Filler (29) - Route 3 (27)
 29,South,0,27,North,0
 # Route 4 (28) - Route 3 (27)
 28,South,0,27,North,55
-# Filler (29) - Pewter City (21)
-29,West,1,21,East,0
 # Route 4 (28) - Filler (29)
 28,West,11,29,East,0
-# Filler (30) - Filler (29)
-30,North,0,29,South,91
 # Route 5 (38) - Route 4 (28)
 38,West,0,28,East,36
 # Filler (30) - Route 4 (28)
 30,North,0,28,South,36
 # Cerulean City (32) - Route 4 (28)
 32,West,4,28,East,0
+# Filler (30) - Filler (29)
+30,North,0,29,South,91
 # Filler (30) - Route 5 (38)
 30,East,10,38,West,0
-# Cerulean City (32) - Route 5 (38)
-32,South,0,38,North,0
-# Route 9 (39) - Route 5 (38)
-39,West,31,38,East,0
 # Cerulean City (32) - Filler (30)
 32,West,30,30,East,0
+# Cerulean City (32) - Route 5 (38)
+32,South,0,38,North,0
 # Route 9 (39) - Cerulean City (32)
 39,West,0,32,East,9
 # Route 24 (33) - Cerulean City (32)
 33,South,0,32,North,6
 # Route 25 (34) - Route 24 (33)
 34,West,0,33,East,0
+# Route 9 (39) - Route 5 (38)
+39,West,31,38,East,0
+# Route 6 (40) - Vermilion City (41)
+40,South,0,41,North,20
+# Route 11 (42) - Vermilion City (41)
+42,West,0,41,East,7
