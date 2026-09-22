@@ -100,7 +100,7 @@ MapPosition = 0,13,10
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[019]
+[019]   # Day-Care
 Name = Route 2
 MapPosition = 0,8,9
 #-------------------------------
@@ -121,8 +121,9 @@ MapPosition = 0,8,7
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[023]
-Name = Route 2
+[023]   # Diglett's Cave [1F]
+Name = Diglett's Cave
+Bicycle = true
 MapPosition = 0,8,8
 #-------------------------------
 [024]   # Gates
@@ -249,6 +250,14 @@ MapPosition = 0,18,12
 BattleBack = water
 MapSize = 1,111
 #-------------------------------
+[042]   # Route 11
+Name = Route 11
+Outdoor = true
+ShowArea = true
+MapPosition = 0,19,11
+BattleBack = Field
+MapSize = 3,000111000
+#-------------------------------
 [044]   # Viridian Houses
 Name = Route 6
 Outdoor = true
@@ -287,11 +296,10 @@ BattleBack = cave1
 Environment = Cave
 Flags = Magnetic,DistortionWorld
 #-------------------------------
-[050]
-Name = Route 7
+[050]   # Digglett's Cave [2F]
+Name = Diglett's Cave
 Bicycle = true
 MapPosition = 0,16,10
-DarkMap = true
 BattleBack = cave3
 Environment = Cave
 Flags = Magnetic,DistortionWorld
