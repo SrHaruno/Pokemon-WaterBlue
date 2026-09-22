@@ -229,44 +229,45 @@ LoseText = Eek!
 #Mt.Moon - 1F
 #-------------------------------
 [BUGCATCHER,Kent]
-LoseText = You're mean!
+LoseText = You got me!
 
  Pokemon = WEEDLE,11
  Pokemon = KAKUNA,11
 #-------------------------------
 [LASS,Iris]
-LoseText = You're mean!
+LoseText = I lost?
 
  Pokemon = CLEFAIRY,14
 #-------------------------------
 [SUPERNERD,Jovan]
-LoseText = You're mean!
+LoseText = My POKéMON won't do!
 
  Pokemon = MAGNEMITE,11
  Pokemon = VOLTORB,11
 #-------------------------------
 [BUGCATCHER,Robby]
-LoseText = You're mean!
+LoseText = I lost.
 
  Pokemon = CATERPIE,10
  Pokemon = METAPOD,10
  Pokemon = SEWADDLE,10
 #-------------------------------
 [LASS,Miriam]
-LoseText = You're mean!
+LoseText = Oh! I lost it!
 
  Pokemon = ODDISH,11
  Pokemon = BELLSPROUT,11
 #-------------------------------
 [YOUNGSTER,Josh]
-LoseText = You're mean!
+LoseText = Losing stinks! It's so uncool.
 
  Pokemon = RATTATA,10
- Pokemon = RATTATA_1,10
+ Pokemon = RATTATA,10
+	Form = 1
  Pokemon = ZUBAT,10
 #-------------------------------
 [HIKER,Marcos]
-LoseText = You're mean!
+LoseText = Wow! Shocked again!
 
  Pokemon = GEODUDE,10
  Pokemon = ARON,10
